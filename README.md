@@ -1,5 +1,7 @@
 # Industrial Defect Detection
 
+![Universidade Portucalense](https://img.shields.io/badge/Universidade%20Portucalense-Mestrado%20Eng.%20Computa%C3%A7%C3%A3o-8B0000?style=flat-square) ![Colaboração](https://img.shields.io/badge/Projeto-Colabora%C3%A7%C3%A3o-1E90FF?style=flat-square)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
